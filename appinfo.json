@@ -1,0 +1,12 @@
+{
+  "id": "com.mankey.signageplayer",
+  "version": "0.1.0",
+  "vendor": "Mankey",
+  "type": "web",
+  "main": "index.html",
+  "title": "Signage Player",
+  "icon": "assets/icon.png",
+  "backgroundColor": "#000000",
+  "requiredPermissions": ["webos*", "time.query"],
+  "displayName": "Signage Player"
+}

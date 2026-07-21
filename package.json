@@ -1,0 +1,13 @@
+{
+	"name": "lg-signage-player",
+	"version": "0.1.0",
+	"scripts": {
+		"build": "tsc",
+		"watch": "tsc --watch",
+		"format": "prettier --write \"src/**/*.{ts,js}\" \"test/**/*.{ts,js}\" \"*.{ts,js}\""
+	},
+	"devDependencies": {
+		"prettier": "^3.4.2",
+		"typescript": "^5.5.0"
+	}
+}
