@@ -4,6 +4,11 @@
 	"scripts": {
 		"build": "tsc",
 		"watch": "tsc --watch",
+    "buildi": "npm run build && npm run install && npm run close && npm run open",
+    "pack": "ares-package .",
+    "install": "ares-install --device osman_tv ru.mankey.signageplayer_0.1.0_all.ipk",
+    "open": "ares-launch --device osman_tv ru.mankey.signageplayer",
+    "close": "ares-launch --device osman_tv --close ru.mankey.signageplayer",
 		"format": "prettier --write \"src/**/*.{ts,js}\" \"test/**/*.{ts,js}\" \"*.{ts,js}\""
 	},
 	"devDependencies": {

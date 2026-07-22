@@ -1,0 +1,34 @@
+{
+	"version": "1.0",
+	"updated": "2026-07-22T00:00:00Z",
+	"items": [
+		{
+			"type": "image",
+			"url": "https://picsum.photos/id/1015/1920/1080",
+			"duration": 15,
+			"title": "Горный пейзаж"
+		},
+		{
+			"type": "video",
+			"url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+			"title": "Big Buck Bunny"
+		},
+		{
+			"type": "image",
+			"url": "https://picsum.photos/id/237/1920/1080",
+			"duration": 12,
+			"title": "Собака"
+		},
+		{
+			"type": "web",
+			"url": "https://mankey.ru",
+			"duration": 20,
+			"title": "Сайт mankey.ru"
+		},
+		{
+			"type": "video",
+			"url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+			"title": "Elephants Dream"
+		}
+	]
+}

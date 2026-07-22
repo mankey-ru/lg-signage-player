@@ -1,0 +1,10 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "**/*playlist.json"
+      ],
+      "url": "./playlist.schema.json"
+    }
+  ]
+}
